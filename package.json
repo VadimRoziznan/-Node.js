@@ -1,0 +1,19 @@
+{
+  "name": "@vadimroziznan/ajs",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimRoziznan/ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VadimRoziznan/ajs/issues"
+  },
+  "homepage": "https://github.com/VadimRoziznan/ajs#readme"
+}
